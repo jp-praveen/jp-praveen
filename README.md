@@ -13,7 +13,7 @@
 - Optimization and Computational Frameworks: CVX, GPOPS-II, CasADi, IPOPT, PyTorch.
 
 💡 **Let's Connect!**  
--  [LinkedIn]([https://www.linkedin.com/in/praveen123](https://www.linkedin.com/in/praveen-jawahalal-ayyanathan/))  
+-  [LinkedIn](https://www.linkedin.com/in/praveen-jawahalal-ayyanathan/)
 -  [Portfolio](https://jp-praveen.github.io/)  
 -  [Research Gate](https://www.researchgate.net/profile/Praveen-Jawaharlal-Ayyanathan?ev=hdr_xprf)  
 
