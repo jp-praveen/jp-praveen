@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there! 👋 I'm Praveen
+
+🚀 **Aerospace Engineer | Autonomous Systems | UAV Trajectory Optimization | Control Systems** 
 
 <!--
 **jp-praveen/jp-praveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
