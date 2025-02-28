@@ -2,6 +2,11 @@
 
 🚀 **Aerospace Engineer | Autonomous Systems | UAV Trajectory Optimization | Control Systems** 
 
+🎯 **Education:**  
+- 🎓 PhD Candidate in Aerospace Engineering at Auburn University
+- 🎓 MS in Aerospace Engineering at Auburn University
+- 🎓 BTech in Engineering Physics at NIT-Calicut
+
 <!--
 **jp-praveen/jp-praveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
