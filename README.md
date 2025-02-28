@@ -8,9 +8,16 @@
 - 🎓 BTech in Engineering Physics at NIT-Calicut
 
 🎯 **Skills:**  
-Embedded Systems and Hardware: Arduino, Raspberry Pi, Jetson Nano, Jetson Orin Nano, Pixhawk 6C, NI Data Acquisition Systems, Intel Realsense depth camera D435, ZED mini stereo camera, IMU, GPS, Phantom VEO 640 high-speed imaging camera, angular encoders, optical sensors.
-Programming Languages and Environments: Python, C++, MATLAB, LabVIEW, Simulink, ROS, Gazebo.
-Optimization and Computational Frameworks: CVX, GPOPS-II, CasADi, IPOPT, PyTorch.
+- Embedded Systems and Hardware: Arduino, Raspberry Pi, Jetson Nano, Jetson Orin Nano, Pixhawk 6C, NI Data Acquisition Systems, Intel Realsense depth camera D435, ZED mini stereo camera, IMU, GPS, Phantom VEO 640 high-speed imaging camera, angular encoders, optical sensors.
+- Programming Languages and Environments: Python, C++, MATLAB, LabVIEW, Simulink, ROS, Gazebo.
+- Optimization and Computational Frameworks: CVX, GPOPS-II, CasADi, IPOPT, PyTorch.
+
+💡 **Let's Connect!**  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/praveen123](https://www.linkedin.com/in/praveen-jawahalal-ayyanathan/))  
+- 📜 [Portfolio](https://jp-praveen.github.io/)  
+- 📝 [Research Gate](https://www.researchgate.net/profile/Praveen-Jawaharlal-Ayyanathan?ev=hdr_xprf)  
+
+
 <!--
 **jp-praveen/jp-praveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
